@@ -2,7 +2,9 @@
 
 The Debugging Subgroup is a sub-organization of the
 [WebAssembly Community Group](https://www.w3.org/community/webassembly/) of the W3C.
-As such, 
+As such, it is intended that its charter align with that of the CG. In particular, 
+the sections of the CG charter relating to Community and Business Group Process,
+Contribution Mechanics, Transparency, and Decision Process also apply to the Subgroup.
 
 ## Goals
 
@@ -49,6 +51,7 @@ in existing CG software such as Binaryen or WABT). Capabilities may include:
 - Interactive debuggers or profilers
 - Test suites
 
-## Amendments to this Charter
+## Amendments to this Charter and Chair Selection
 
-This charter may be amended by vote of the WebAssembly Community Group.
+This charter may be amended, and Subgroup Chairs may be selected by vote of the full
+WebAssembly Community Group.
