@@ -34,9 +34,9 @@ The Subgroup may produce several kinds of specification-related work output:
 - Extensions or amendments to existing specifications (e.g. Wasm core or
 web spec, DWARF, EcmaScript)
 - Creation of new specifications in standards bodies or working
-groups (e.g. Wasm WG or TC39)
+groups (e.g. Wasm WG, TC39, or future general web-debugging standards working group)
 - Creation of new specifications outside of standards bodies
-(e.g. similar to LLVM object file format in Wasm tool conventions)
+(e.g. similar to the LLVM object file format documentation in Wasm tool conventions)
 
 ### Non-normative reports
 The Subgroup may produce non-normative material such as requirements
